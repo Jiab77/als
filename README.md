@@ -43,11 +43,11 @@ And/Or:
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Headless UI](https://headlessui.com/)
 
-Along with [ReactJS](https://reactjs.org/).
+Along with [ReactJS](https://reactjs.org/) and probably more things.
 
 ## Release date
 
-Any initial and ugly version should be released soon! 😁
+An initial and ugly version should be released soon! 😁
 
 ## Roadmap
 
